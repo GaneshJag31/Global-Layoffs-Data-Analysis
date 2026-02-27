@@ -85,8 +85,8 @@ Key analysis performed:
 
 ## Project Structure
 
-- Data-Cleaning-Project.sql
-- Data-Analysis-Project.sql
+- [Data-Cleaning-Project.sql](https://github.com/GaneshJag31/Global-Layoffs-Data-Analysis/blob/main/Data%20Cleaning%20Project.sql)
+- [Data-Analysis-Project.sql](https://github.com/GaneshJag31/Global-Layoffs-Data-Analysis/blob/main/Data%20Analytics%20EXP.sql)
 - [layoffs.csv](https://github.com/GaneshJag31/Global-Layoffs-Data-Analysis/blob/main/layoffs.csv)
 
 ---
